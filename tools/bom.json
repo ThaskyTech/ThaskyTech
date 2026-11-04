@@ -1,0 +1,10 @@
+[
+  {"item": "01", "part": "Autonomous Garbage Collector", "function": "Self-driving litter collector with a robotic arm", "materials": "Python, TensorFlow, OpenCV, Raspberry Pi", "status": "IN PROGRESS"},
+  {"item": "02", "part": "6-Axis Servo Arm", "function": "Arm with vision and depth, built in four days", "materials": "Arduino, YOLOv8, MiDaS", "status": "SHIPPED"},
+  {"item": "03", "part": "BC Smart Ecosystem", "function": "Campus navigation and drone delivery. Co-led eight people", "materials": "Express, MongoDB, Socket.IO", "status": "DEPLOYED"},
+  {"item": "04", "part": "MAEA", "function": "Trading agent on evolution strategies and RL", "materials": "Python, MetaTrader 5", "status": "CONCEPT"},
+  {"item": "05", "part": "Trading Bot", "function": "Swing bot with regime detection and a risk engine", "materials": "Python, LightGBM, SQLite", "status": "SHIPPED"},
+  {"item": "06", "part": "CivicConnect", "function": "Service-request platform. GitHub lead, CI quality gate", "materials": "ASP.NET Core, Angular, PostgreSQL", "status": "DELIVERED"},
+  {"item": "07", "part": "Abiogenesis", "function": "Molecular evolution simulator on binary strings", "materials": "Python, NumPy, Numba", "status": "EXPERIMENT"},
+  {"item": "08", "part": "Vista Etude", "function": "Practice companion for classical piano", "materials": "Flutter", "status": "IN PROGRESS"}
+]

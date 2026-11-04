@@ -1,0 +1,16 @@
+<svg viewBox="0 0 417 215" role="img" aria-label="Detail drawing of a short musical staff with six notes" xmlns="http://www.w3.org/2000/svg">
+<rect x="6" y="6" width="405" height="203" class="frame"></rect>
+<g transform="translate(0 22)">
+<path d="M28 42H389M28 52H389M28 62H389M28 72H389M28 82H389M28 42V82M389 42V82" class="frame"></path>
+<path d="M86 77V43M146 67V33M206 72V38M266 57V23" class="thin"></path>
+<path d="M324 47V81M368 42V76" class="thin"></path>
+<ellipse cx="80" cy="77" rx="6.2" ry="4.3" transform="rotate(-20 80 77)" class="dot"></ellipse>
+<ellipse cx="140" cy="67" rx="6.2" ry="4.3" transform="rotate(-20 140 67)" class="dot"></ellipse>
+<ellipse cx="200" cy="72" rx="6.2" ry="4.3" transform="rotate(-20 200 72)" class="dot"></ellipse>
+<ellipse cx="260" cy="57" rx="6.2" ry="4.3" transform="rotate(-20 260 57)" class="dot"></ellipse>
+<ellipse cx="330" cy="47" rx="6.2" ry="4.3" transform="rotate(-20 330 47)" class="dot"></ellipse>
+<ellipse cx="374" cy="42" rx="6.2" ry="4.3" transform="rotate(-20 374 42)" class="dot"></ellipse>
+</g>
+<text x="20" y="178" class="capb">DETAIL B</text>
+<text x="20" y="195" class="cap">Classical piano, self-taught</text>
+</svg>

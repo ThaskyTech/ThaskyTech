@@ -1,0 +1,65 @@
+<svg viewBox="0 0 846 440" width="846" height="440" role="img" aria-label="Engineering drawing of a six-axis robot arm whose joints are labelled with Thabang Molise's disciplines, with a title block" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="10" width="826" height="420" class="frame"></rect>
+<rect x="24" y="24" width="798" height="392" class="frame2"></rect>
+<path d="M157 10v14M290 10v14M423 10v14M556 10v14M689 10v14M157 416v14M290 416v14M423 416v14M556 416v14M689 416v14M10 108h14M10 206h14M10 304h14M822 108h14M822 206h14M822 304h14" class="frame"></path>
+<text x="86" y="20" class="tick">1</text><text x="220" y="20" class="tick">2</text><text x="354" y="20" class="tick">3</text><text x="488" y="20" class="tick">4</text><text x="620" y="20" class="tick">5</text><text x="754" y="20" class="tick">6</text>
+<text x="14" y="70" class="tick">A</text><text x="14" y="160" class="tick">B</text><text x="14" y="258" class="tick">C</text><text x="14" y="360" class="tick">D</text>
+
+<text x="44" y="76" class="name">Thabang Molise</text>
+<text x="44" y="102" class="tag">Software for machines that move.</text>
+
+
+<path d="M300 392h170" class="ln0"></path>
+<path d="M308 392l-8 9M324 392l-8 9M340 392l-8 9M356 392l-8 9M372 392l-8 9M388 392l-8 9M404 392l-8 9M420 392l-8 9M436 392l-8 9M452 392l-8 9M468 392l-8 9" class="thin"></path>
+<path d="M342 392v-14h76v14" class="ln"></path>
+<path d="M352 378l10-48h36l10 48z" class="ln"></path>
+<path d="M380 408V300" class="center"></path>
+<rect x="0" y="-14" width="166" height="28" rx="14" transform="translate(380 330) rotate(-57.3)" class="ln"></rect>
+<rect x="0" y="-11" width="133" height="22" rx="11" transform="translate(470 190) rotate(-13)" class="ln"></rect>
+<path d="M380 330L470 190L600 160" class="center"></path>
+<circle cx="380" cy="330" r="17" class="ln"></circle><circle cx="380" cy="330" r="5" class="ln0"></circle>
+<circle cx="470" cy="190" r="15" class="ln"></circle><circle cx="470" cy="190" r="4.5" class="ln0"></circle>
+<rect x="0" y="-8" width="50" height="16" rx="8" transform="translate(600 160) rotate(40)" class="ln"></rect>
+<circle cx="600" cy="160" r="12" class="ln"></circle><circle cx="600" cy="160" r="3.5" class="ln0"></circle>
+<circle cx="638" cy="192" r="10" class="ln"></circle><circle cx="638" cy="192" r="3" class="ln0"></circle>
+<path d="M638 202l18 14" class="ln0"></path>
+<path d="M644 224l12-8 12 8M644 224v12M668 224v12" class="ln0"></path>
+
+<rect x="640" y="262" width="32" height="32" class="ln"></rect>
+<rect x="631" y="252" width="50" height="43" class="box"></rect>
+<text x="688" y="272" class="vio">litter 0.91</text>
+
+<circle cx="380" cy="385" r="2.5" class="dot"></circle><circle cx="380" cy="330" r="2.5" class="dot"></circle><circle cx="470" cy="190" r="2.5" class="dot"></circle><circle cx="600" cy="160" r="2.5" class="dot"></circle><circle cx="638" cy="192" r="2.5" class="dot"></circle><circle cx="656" cy="216" r="2.5" class="dot"></circle>
+
+<path d="M44 178h206L470 190" class="thin"></path>
+<text x="44" y="171" class="lab">J3  MACHINE LEARNING</text>
+<text x="44" y="192" class="sub">YOLOv8, MiDaS, LightGBM, RL</text>
+
+<path d="M44 262h206L380 330" class="thin"></path>
+<text x="44" y="255" class="lab">J2  SECURITY</text>
+<text x="44" y="276" class="sub">JWT, RBAC, bcrypt, sessions</text>
+
+<path d="M44 346h206L380 385" class="thin"></path>
+<text x="44" y="339" class="lab">J1  BACKEND</text>
+<text x="44" y="360" class="sub">Express, PostgreSQL, Prisma</text>
+
+<path d="M812 74H664L600 160" class="thin"></path>
+<text x="664" y="67" class="lab">J4  EMBEDDED</text>
+<text x="664" y="88" class="sub">Arduino, Raspberry Pi</text>
+
+<path d="M812 136H700L638 192" class="thin"></path>
+<text x="700" y="129" class="lab">J5  CAD</text>
+<text x="700" y="150" class="sub">Fusion 360, STL</text>
+
+<path d="M812 204H680L656 216" class="thin"></path>
+<text x="680" y="197" class="lab">J6  TEACHING</text>
+<text x="680" y="218" class="sub">Head of Robotics Club</text>
+
+<rect x="522" y="300" width="300" height="116" class="ln"></rect>
+<path d="M522 338h300M522 377h300M672 338v78" class="frame"></path>
+<text x="532" y="314" class="tb">ROLE</text><text x="532" y="330" class="tv">Software engineer, robotics and ML</text>
+<text x="532" y="352" class="tb">LOCATION</text><text x="532" y="369" class="tv">South Africa</text>
+<text x="682" y="352" class="tb">GRADUATING</text><text x="682" y="369" class="tv">2027</text>
+<text x="532" y="391" class="tb">STATUS</text><text x="532" y="408" class="tvc">Open to roles</text>
+<text x="682" y="391" class="tb">SHEET</text><text x="682" y="408" class="tv">1 of 1</text>
+</svg>
